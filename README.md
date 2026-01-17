@@ -35,7 +35,7 @@ The dataset consists of 9 columns for 1,000 transactions.
 
 <img width="1622" height="745" alt="image" src="https://github.com/user-attachments/assets/0943d7c2-9f9c-482f-bc85-c16d8588ba7e" />  
 
-**Recommendations**
+**Recommendations**  
 Based on the demographic-driven insights from this analysis, the following recommendations are proposed:
 
 - **Target product marketing by age group**  
