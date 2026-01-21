@@ -16,7 +16,7 @@ The dataset consists of 9 columns for 1,000 transactions.
 - How do product preferences vary by demographic?
 - What are actionable opportunities based on spending patterns?
 
-## Executive Summary
+# Executive Summary
 
 **Gender** 
 * Females' purchasing behavior is evenly distributed  
